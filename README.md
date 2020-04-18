@@ -33,7 +33,7 @@ for (RecommendedItem recommendation : recommendations) {
  
  
  
-##### Compile the java program : javac Recommender.java
-##### Run The java program : java Recommender
+#### Compile the java program : javac Recommender.java
+#### Run The java program : java Recommender
 
 
