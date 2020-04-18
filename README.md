@@ -7,4 +7,8 @@
 * Bhuvanesh Nakka
 * Sneha Madhavaram
 
+Step 1: Create DataModel Object
+
+DataModel datamodel = new FileDataModel(new File("input file"));
+
 
